@@ -5,7 +5,7 @@ import { useState } from 'react';
 
 function App() {
 
-     let [Quotes,setQuotes]=useState('');
+     let [Quotes,setQuotes]=useState('Genius is one percent inspiration and ninety-nine percent perspiration');
 
       function GenerateHandler()
       {
